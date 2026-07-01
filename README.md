@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=The%20Codebase&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Research-driven%20engineering%20·%20Production%20architecture%20·%20Secure%20systems&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="The Codebase banner"/>
+<img src="./assets/neural-header.svg" width="100%" alt="The Codebase — AI · Data · Security Engineering"/>
 
 <a href="https://github.com/thecodebasedot">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CF0&center=true&vCenter=true&width=620&lines=AI+Systems+Engineering;Data+Infrastructure+%26+Pipelines;Secure+Software+Architecture;Production-Oriented%2C+Modular+Design" alt="Typing SVG"/>
